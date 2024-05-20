@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Query Results</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Query Results</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Query Builder Results" name="Query Builder Results">72157c243c71311068bcf327dfe37f38</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-18 03:16:11</sys_created_on>
+        <sys_id>54e4f2e447d68610aa9813ff016d43a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Query Results</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_wizard_answer_54e4f2e447d68610aa9813ff016d43a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-18 03:16:11</sys_updated_on>
+        <table/>
+        <target_url>u_cmdb_qb_result_5f45176bc5aef4dc0e6243ea472ca4bca8ef24ba.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
